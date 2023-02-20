@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Забавный факт: [JavaScript один из самых популярных языков программирования в мире](https://habr.com/ru/post/651585/)
 
 ### Мой стек:
-✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ html5 css3 javascript webpack react git typescript
