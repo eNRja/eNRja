@@ -1,4 +1,4 @@
-## Привет, меня зовут Алексей 
+## Привет, меня зовут Алексей 👋
 
 Here are some ideas to get you started:
 
@@ -9,5 +9,8 @@ Here are some ideas to get you started:
 - 🙇 [Эти ребята всегда на шаг впереди, стремлюсь за ними](https://holyjs.ru/talks/)
 - ⚡ Забавный факт: [JavaScript один из самых популярных языков программирования в мире](https://habr.com/ru/post/651585/)
 
-### Мой стек:
- html5 css3 javascript webpack react git typescript
+### 🛠️ Мой стек:
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+
+
+
