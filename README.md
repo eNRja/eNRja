@@ -17,7 +17,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     </p>
 
-### 🛠️ Моя статистика:
+### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Моя статистика:
 ![eNRja's GitHub stats](https://github-readme-stats.vercel.app/api?username=eNRja&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eNRja&layout=compact)](https://github.com/eNRja/github-readme-stats)
 
