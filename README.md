@@ -1,6 +1,6 @@
 ## Привет, меня зовут Алексей 👋
 
-- 🙇 Текущий командный проект игра змейка [`Slytherin`](https://github.com/Olovyannikov/middle.gamedev.praktikum.yandex)
+- 🙇 Последний завершённый командный проект игра змейка [`Slytherin`](https://github.com/Olovyannikov/middle.gamedev.praktikum.yandex)
 - 🐧 Последний выполненный проект [`messenger`](https://deploy-preview-6--fascinating-cucurucho-a741d4.netlify.app)
 - 🔭 Последний выполненный проект на React [`React-Burger`](https://enrja.github.io/react-burger/)
 - 🚀 Стремлюсь к работе в сильной команде разработчиков 
